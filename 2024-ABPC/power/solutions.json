@@ -1,0 +1,11 @@
+{
+    "ac.cpp": { "verdict": "model_solution" },
+    "wa.cpp": { 
+        "verdict": "incorrect",
+        "except": { "samples": "correct" }
+    },
+    "tle.cpp": { 
+        "verdict": "time_limit",
+        "except": { "samples": "correct" }
+    }
+}

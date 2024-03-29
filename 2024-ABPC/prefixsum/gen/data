@@ -1,0 +1,26 @@
+@subtask samples
+manual sample1.in
+manual sample2.in
+
+@subtask full
+@include samples
+gen 1
+gen 2
+gen 3
+gen 4
+gen 5
+gen 10 1
+gen 10 2
+gen 20 1
+gen 20 2
+gen 26 1
+gen 26 2
+gen 26 3
+gen 26 4
+gen 26 5
+gen 26 6
+gen 26 7
+gen 26 8
+gen 26 9
+gen 26 10
+manual 1e9.in
