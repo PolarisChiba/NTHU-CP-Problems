@@ -1,7 +1,7 @@
 {
-    "name": "prefixsum",
-    "code": "prefixsum",
-    "title": "prefixsum",
+    "name": "white",
+    "code": "white",
+    "title": "white",
     "type": "Batch",
     "has_grader": false,
     "java_enabled": false,

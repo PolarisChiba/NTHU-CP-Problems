@@ -1,7 +1,7 @@
 {
-    "name": "treasure",
-    "code": "treasure",
-    "title": "treasure",
+    "name": "social_network",
+    "code": "social_network",
+    "title": "social_network",
     "type": "Batch",
     "has_grader": false,
     "java_enabled": false,

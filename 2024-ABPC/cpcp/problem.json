@@ -1,7 +1,7 @@
 {
-    "name": "power",
-    "code": "power",
-    "title": "power",
+    "name": "cpcp",
+    "code": "cpcp",
+    "title": "cpcp",
     "type": "Batch",
     "has_grader": false,
     "java_enabled": false,
