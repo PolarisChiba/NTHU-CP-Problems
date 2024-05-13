@@ -1,0 +1,17 @@
+{
+    "correct1.cpp": {
+        "verdict": "model_solution"
+    },
+    "lca.cpp": {
+        "verdict": "incorrect"
+    },
+    "correct2.cpp": {
+        "verdict": "correct"
+    },
+    "tle_YJU.cpp": {
+        "verdict": "time_limit",
+        "except": {
+            "sample": "correct"
+        }
+    }
+}

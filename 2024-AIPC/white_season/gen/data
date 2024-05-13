@@ -1,0 +1,41 @@
+@subtask samples
+manual sample1.in
+manual sample2.in
+
+@subtask full
+@include samples
+bits 20 10
+bits 11 10
+bits 10 9
+bits 4 2 4 2 4 2 4 2
+bits 9 7 10 5
+bits 15 12 5
+bits 11 7 6 3 3
+nope 1
+nope 2
+nope 3
+nope 4
+nope 5
+nope 6
+nope 7
+nope 8
+nope 9
+nope 10
+random 1
+random 2
+random 3
+random 4
+random 5
+random 6
+random 7
+random 8
+random 9
+random 10
+random 0 10
+random 0 100
+random 0 1000
+random 0 20
+random 0 50
+random 0 3
+random 0 30
+random 0 25
