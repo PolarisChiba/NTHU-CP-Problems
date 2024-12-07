@@ -1,0 +1,4 @@
+{
+    "correct_pbds.cpp": { "verdict": "model_solution" },
+    "correct_pq.cpp": { "verdict": "correct" }
+}

@@ -1,0 +1,26 @@
+@subtask samples
+manual 1.in
+manual 2.in
+
+@subtask full
+@include samples
+monotone 0
+monotone 1
+random 0
+random 1
+random 2
+random 3
+random 4
+random 5
+random 6
+random 7
+random 9
+random_same 0
+random_same 1
+random_same 2
+random_same 3
+random_same 4
+random_same 5
+random_same 6
+random_same 7
+random_same 9
