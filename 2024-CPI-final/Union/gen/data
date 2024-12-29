@@ -1,0 +1,20 @@
+@subtask samples
+manual 0.in
+
+@subtask full
+@include samples
+manual 1.in
+manual 2.in
+manual 3.in
+manual 4.in
+manual 5.in
+manual 6.in
+manual 7.in
+manual 8.in
+manual 9.in
+manual 10.in
+manual 11.in
+manual 12.in
+manual 13.in
+manual 14.in
+manual 15.in
